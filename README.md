@@ -22,11 +22,11 @@ Looking for a paid 3 to 6 month placement in Dublin from early 2027 in cyber sec
 - **My contribution:** sole contributor. I used ChatGPT to help me understand the code and concepts.
 - **What it shows:** scripting for security investigation and report writing.
 
-### 3. WinLocal: Security Architecture and NIST CSF 2.0 Presentation
+### 3. [WinLocal: Security Architecture and NIST CSF 2.0 Presentation](https://github.com/A55a5/winlocal-nist-csf-presentation)
 - **What it is:** a group university presentation (Security Architecture, April 2026) applying the NIST Cybersecurity Framework 2.0 to a fictional organisation planning an IT migration.
 - **My contribution:** I prepared and presented the Detect and Respond section and the Recover and recommendations section.
 - **What it shows:** assessing security gaps against a framework (ransomware risk, flat network, access controls, incident response, backups and recovery). This was planning and analysis, not hands-on AWS deployment.
-- **Evidence:** slides available on request (not published here).
+- **Evidence:** project write-up in the repository (slides not published).
 
 ## Skills
 Kali Linux, Linux command line, Docker, Git and GitHub, Python, PowerShell (analysis), SQL injection testing, Burp Suite, Semgrep, NIST CSF 2.0 (coursework).
