@@ -1,6 +1,6 @@
 # Abbas Hussain
 
-**BSc Cyber Security student (TU863, TU Dublin)** | Web application security | Python security tooling
+**Third-year student, TU863 (TU Dublin)** | Web application security | Python security tooling
 
 Looking for a paid 3 to 6 month placement in Dublin from early 2027 in cyber security, digital forensics or GRC.
 
@@ -22,10 +22,16 @@ Looking for a paid 3 to 6 month placement in Dublin from early 2027 in cyber sec
 - **My contribution:** sole contributor. I used ChatGPT to help me understand the code and concepts.
 - **What it shows:** scripting for security investigation and report writing.
 
+### 3. WinLocal: Security Architecture and NIST CSF 2.0 Presentation
+- **What it is:** a group university presentation (Security Architecture, April 2026) applying the NIST Cybersecurity Framework 2.0 to a fictional organisation planning an IT migration.
+- **My contribution:** I prepared and presented the Detect and Respond section and the Recover and recommendations section.
+- **What it shows:** assessing security gaps against a framework (ransomware risk, flat network, access controls, incident response, backups and recovery). This was planning and analysis, not hands-on AWS deployment.
+- **Evidence:** slides available on request (not published here).
+
 ## Skills
 Kali Linux, Linux command line, Docker, Git and GitHub, Python, PowerShell (analysis), SQL injection testing, Burp Suite, Semgrep, NIST CSF 2.0 (coursework).
 
 ## Education
-BSc Cyber Security (TU863), Technological University Dublin, 2024 to expected 2028.
+TU863 programme (cyber security and digital forensics), Technological University Dublin, 2024 to expected 2028.
 
 All testing was done against intentionally vulnerable applications in an authorised educational setting. No passwords, keys or confidential data are published here.
